@@ -1,0 +1,14 @@
+{
+    "name": "Island Trend",
+    "version": "1.0",
+    "description": "a nice tropical island",
+    "content_scripts": [{
+        "matches": ["*://*.facebook.com/*"],
+        "css": ["islandtrend.css"]
+    }],
+    "web_accessible_resources": [
+        "island.png"
+     ],
+    "manifest_version": 2
+}
+

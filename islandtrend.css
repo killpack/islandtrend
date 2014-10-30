@@ -1,0 +1,8 @@
+#pagelet_trending_tags_and_topics:after {
+  content: url('chrome-extension://__MSG_@@extension_id__/island.png');
+}
+
+
+#pagelet_trending_tags_and_topics > div > div:last-child {
+  display: none;
+}
