@@ -3,6 +3,8 @@ Island Trend
 
 Replaces the "TRENDING" section of Facebook with an island.
 
+![much better](island.png)
+
 I don't like the "TRENDING" section in the corner of Facebook.
 I don't want to hear about the affairs of D-list celebrities or
 who won a competition I'll never watch. I want to see a little
