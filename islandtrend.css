@@ -3,6 +3,6 @@
 }
 
 
-#pagelet_trending_tags_and_topics > div > div:last-child {
+#pagelet_trending_tags_and_topics > :first-child {
   display: none;
 }
